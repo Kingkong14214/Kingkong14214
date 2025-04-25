@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kingkong14214
-- 👀 I’m interested in ...security,hacking
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...penetration testing
-- 📫 How to reach me ...0704407243
+ My name is Collins Muinde. I am Passionate cybersecurity Ethusiast currently doing cyber security projets to enhance my skill set in both defensive and offensive in cybersecurity realm.
 
 <!---
 Kingkong14214/Kingkong14214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
